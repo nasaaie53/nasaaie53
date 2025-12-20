@@ -13,9 +13,9 @@
 
 ### Connect with me
 
-💼 Linkedln  : [Nasaaie Noris](www.linkedin.com/in/nasaaie-noris-028bb1389) <br>
-✉️ Gmail     : nasaaie1005@gmail.com <br>
-🔗 Github    : nasaaie53
+🔗 Linkedln   : [Nasaaie Noris](www.linkedin.com/in/nasaaie-noris-028bb1389) <br>
+✉️ Gmail      : [nasaaie1005@gmail.com](mailto:nasaaie1005@gmail.com) <br>
+💼 Github     : nasaaie53
 
 <!--  👯 I have a very strong interest in information technology
 - 🤔 I’m looking for help with ...
