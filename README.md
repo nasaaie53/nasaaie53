@@ -45,7 +45,7 @@
   
   
 ---
-## Sem 1's Subject
+## Sem 1's Subject📕
 [SECP1513-Technology-Information-System](https://github.com/nasaaie53/SECP1513-Technology-Information-System)<br/>
 [SECJ1013-Programming-Technique-1](https://github.com/nasaaie53/SECJ1013-Programming-Technique-1)<br>
 [SECI1013-Discreate-Structure](https://github.com/nasaaie53/SECI1013-Discreate-Structure)<br>
