@@ -9,6 +9,45 @@
 - Programming : C++<br>
 - Fundamental : Problem Solving<br>
 - Soft skills : Teamwork, communication, time management<br>
+- Spoken Languages : English,Malay,Chinese
+
+## 🎓 Education
+- SMK Agama Yan (2019-2024 )<br>
+  -> SPM: 8A 3B+
+
+- Universiti Teknologi Malaysia Space, Kuala Lumpur ( 2024-2025 )<br>
+  -> Course: Foundation in Physical Science<br>
+  -> CGPA  : 3.72<br>
+  -> MUET  : 3.5<br>
+
+- Universiti Teknologi Malaysia,Skudai ( 2025-Present )<br>
+  -> Course: Bachelor of Computer Science ( Data Engineering ) with Honors<br>
+
+## Achievement
+- SMK Agama Yan<br>
+-> Participated in Badminton Tournament MSSD KMY -2023<br>
+-> 3rd place in Football Tournament School Level -2022<br>
+-> 4th place in Kedah Virtual Stay Safe Chess Challenge KMY - 2021<br>
+-> Participated in SDG Virtual Health Challenge National Level - 2021<br>
+
+
+## Position
+- SMK Agama Yan<br>
+  -> Police Cadet ( Treasurer ) -2024<br>
+  -> Treasurer ( Football Tournament ) -2023<br>
+  -> Deputy Chairman ( Chess Club ) -2023/2024<br>
+
+- Universiti Teknologi Malaysia,Kuala Lumpur<br>
+  -> Pencak Silat ( member club ) -2024/2025<br>
+
+- Universiti Teknologi Malayia,Skudai<br>
+  -> Sukan Sains Komputer,Suskom ( Crew Activity Unit )
+  
+  
+
+---
+  
+
 
 
 ### Connect with me
