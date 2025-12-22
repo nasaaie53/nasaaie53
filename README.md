@@ -23,7 +23,7 @@
 - Universiti Teknologi Malaysia,Skudai ( 2025-Present )<br>
   -> Course: Bachelor of Computer Science ( Data Engineering ) with Honors<br>
 
-## Achievement
+## 🏅Achievement
 - SMK Agama Yan<br>
 -> Participated in Badminton Tournament MSSD KMY -2023<br>
 -> 3rd place in Football Tournament School Level -2022<br>
@@ -31,7 +31,7 @@
 -> Participated in SDG Virtual Health Challenge National Level - 2021<br>
 
 
-## Position
+## 👨‍💼Position
 - SMK Agama Yan<br>
   -> Police Cadet ( Treasurer ) -2024<br>
   -> Treasurer ( Football Tournament ) -2023<br>
