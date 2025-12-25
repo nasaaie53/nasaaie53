@@ -24,15 +24,33 @@
   -> Course: Bachelor of Computer Science ( Data Engineering ) with Honors<br>
 
 ## 🏅Achievement
-- SMK Agama Yan<br>
+- Sekolah Menengah Kebangsaan Agama Yan<br>
 -> Participated in Badminton Tournament MSSD KMY -2023<br>
 -> 3rd place in Football Tournament School Level -2022<br>
 -> 4th place in Kedah Virtual Stay Safe Chess Challenge KMY - 2021<br>
 -> Participated in SDG Virtual Health Challenge National Level - 2021<br>
 
+## Activities & Volunteering
+
+- Sekolah Menengah Kebangsaan Agama Yan<br>
+-> Participant ( School Level ) - Pertandingan Mencipta Roket Air ( Kelab Reka Bentuk)<br>
+-> Volunteer ( School Level ) - Gotong-royong Madani<br>
+
+- Universiti Teknologi Malaysia,Space,Kuala Lumpur<br>
+-> Volunteer ( College Level ) - Sukan Tahunan Kolej Siswa Jaya<br>
+
+-Universiti Teknologi Malaysia,Skudai<br>
+-> Participant ( International Level ) - Asean Quantum Summit<br>
+-> Participant ( National Level ) - Festival of Ideas 2025<br>
+-> Participant ( University Level ) - Sambutan Hari Akademia Universiti 2025<br>
+-> Participant ( University Level ) - UTM Digital Open Day 2025<br>
+-> Participant ( University Level ) - Student Enhancemnet SECP ( Data Engineering ) 2025<br>
+-> Participant ( Club Level ) - Rehlah Harmoni Circle 2025<br>
+-> Volunteer ( International Level ) - Standard Chartered Singapore Marathon (SCSM) 2025<br>
+
 
 ## 👨‍💼Position
-- SMK Agama Yan<br>
+- Sekolah Menengah Kebangsaan Agama Yan<br>
   -> Police Cadet ( Treasurer ) -2024<br>
   -> Treasurer ( Football Tournament ) -2023<br>
   -> Deputy Chairman ( Chess Club ) -2023/2024<br>
