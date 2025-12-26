@@ -39,7 +39,7 @@
 - Universiti Teknologi Malaysia,Space,Kuala Lumpur<br>
 -> Volunteer ( College Level ) - Sukan Tahunan Kolej Siswa Jaya<br>
 
--Universiti Teknologi Malaysia,Skudai<br>
+- Universiti Teknologi Malaysia,Skudai<br>
 -> Participant ( International Level ) - Asean Quantum Summit<br>
 -> Participant ( National Level ) - Festival of Ideas 2025<br>
 -> Participant ( University Level ) - Sambutan Hari Akademia Universiti 2025<br>
