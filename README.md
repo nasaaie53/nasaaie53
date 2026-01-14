@@ -9,7 +9,7 @@
 - Programming : C++<br>
 - Fundamental : Problem Solving<br>
 - Soft skills : Teamwork, communication, time management<br>
-- Spoken Languages : English,Malay,Chinese
+- Spoken Languages : English,Malay
 
 ## 🎓 Education
 - SMK Agama Yan (2019-2024 )<br>
