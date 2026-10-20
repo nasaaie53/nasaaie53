@@ -78,6 +78,7 @@
 
 
 
+
 <div align="center">
 
   <h2>🐍 My GitHub Contributions</h2>
@@ -85,9 +86,11 @@
   <img
     src="https://raw.githubusercontent.com/nasaaie53/nasaaie53/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
+    width="100%"
   />
 
 </div>
+
 
 
 
