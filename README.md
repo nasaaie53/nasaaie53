@@ -83,7 +83,7 @@
   <h2>🐍 My GitHub Contributions</h2>
 
   <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/nasaaie53/nasaaie53/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
 
