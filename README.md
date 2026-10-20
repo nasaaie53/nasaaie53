@@ -85,7 +85,7 @@
 
   <img
     src="https://raw.githubusercontent.com/nasaaie53/nasaaie53/output/github-contribution-grid-snake-dark.svg"
-    alt="Blue Snake with Purple Contributions"
+    alt="Green Snake with Purple Contributions"
     width="100%"
   />
 </div>
