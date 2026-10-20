@@ -77,6 +77,20 @@
 💻 Website     : [E-Portfolio](https://nasaaie53.github.io/)<br>
 
 
+
+<div align="center">
+
+  <h2>🐍 My GitHub Contributions</h2>
+
+  <img
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+
+</div>
+
+
+
 <!--  👯 I have a very strong interest in information technology
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
