@@ -84,7 +84,7 @@
   <h2>🐍 My GitHub Contributions</h2>
 
   <img
-    src="https://raw.githubusercontent.com/nasaaie53/nasaaie53/output/github-contribution-grid-snake-bright.svg"
+    src="https://raw.githubusercontent.com/nasaaie53/nasaaie53/output/github-contribution-grid-snake-dark.svg"
     alt="Blue Snake with Purple Contributions"
     width="100%"
   />
