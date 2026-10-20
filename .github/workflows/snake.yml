@@ -23,6 +23,7 @@ jobs:
           github_user_name: nasaaie53
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300BFFF&color_dots=%23F3E8FF%23D8B4FE%23B794F4%239B5DE5%237B2CBF
 
       - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
